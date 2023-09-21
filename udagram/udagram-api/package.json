@@ -1,7 +1,11 @@
 {
   "name": "udagram-api",
   "version": "2.0.0",
-  "description": "",
+  "description": "API for Udagram project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quangthanh1995/nd0067-c4-deployment-process-project-starter"
+  },
   "engines": {
     "node": "14.15.0"
   },
