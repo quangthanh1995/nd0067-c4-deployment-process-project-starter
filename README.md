@@ -70,3 +70,12 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+## Application link
+
+- Back-End API: `http://udagram-api-dev.us-east-1.elasticbeanstalk.com/`
+
+- Front-End Webapp: `http://myawsbucket-thanhnq10.s3-website-us-east-1.amazonaws.com/`
+
+- End user can access Front-End Webapp link to use `Udagram` application.
+
